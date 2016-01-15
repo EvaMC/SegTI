@@ -24,8 +24,6 @@ using System;
 namespace Cast256
 {
 
-    esto es una prueba.. no estoy seguro de qué funcione este código!! :D
-
     public class Cast256
     {
 
